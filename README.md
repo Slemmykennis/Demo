@@ -1,6 +1,6 @@
 ## Demo
 
-### Learning outcome
+### Learning outcomes
 
 This demo app will be used to learn the following:
 
@@ -26,11 +26,11 @@ For a start, you could use [Try Git](https://try.github.io/levels/1/challenges/1
 ### Test Driven Development
 
 To understand Test Driven Development, I recommend you use Michael Hartl's
-(Rails Tutorial)[https://www.railstutorial.org/]. This will be helpful in learning to use TDD.
+[Rails Tutorial](https://www.railstutorial.org/). This will be helpful in learning to use TDD.
 
 ### Rails Best Practices
 
 I'd keep you posted as we continue with this.
 
-Cheers!
+Cheers! 
 Yusuf Daniju
