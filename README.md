@@ -1,25 +1,36 @@
-# README
+## Demo
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Learning outcome
 
-Things you may want to cover:
+This demo app will be used to learn the following:
 
-* Ruby version
+ - Understanding of git and git workflow
+ - Test Driven Development
+ - Rails best practices
 
-* System dependencies
+### Understanding git and git workflow
 
-* Configuration
+For a start, you could use [Try Git](https://try.github.io/levels/1/challenges/1).
 
-* Database creation
+#### Agriteer git workflow
 
-* Database initialization
+ - Branch out of the main branch into the new branch.
+ - The new branch should be named after the new feature, fix or chore.
+ - Use [atomic commits](https://www.freshconsulting.com/atomic-commits/) as you work.
+ - Commit messages should have descriptive messages
+ - When the job is done, push to the remote  branch named after same branch you are working on
+ - Raise a Pull Request on the default branch (Usually master)
+ - Ensure that the code is reviewed by team members
+ - Necessary corrections should be made before merging
 
-* How to run the test suite
+### Test Driven Development
 
-* Services (job queues, cache servers, search engines, etc.)
+To understand Test Driven Development, I recommend you use Michael Hartl's
+(Rails Tutorial)[https://www.railstutorial.org/]. This will be helpful in learning to use TDD.
 
-* Deployment instructions
+### Rails Best Practices
 
-* ...
-"# Demo" 
+I'd keep you posted as we continue with this.
+
+Cheers!
+Yusuf Daniju
